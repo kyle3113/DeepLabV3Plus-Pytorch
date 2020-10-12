@@ -1,4 +1,4 @@
-from disutils.core import setup
+import setuptools
 
 setuptools.setup(
     name="network-kyle3113", # Replace with your own username
